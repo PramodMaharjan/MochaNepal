@@ -1,0 +1,19 @@
+.header-wrapper {
+  background: transparent;
+  position: absolute;
+  width: 100%;
+}
+
+.header__inline-menu .link {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.header__menu-item {
+  color: #fff;
+}
+
+.header__menu-item .header__active-menu-item {
+  text-decoration: none;
+  color: #fff;
+}
